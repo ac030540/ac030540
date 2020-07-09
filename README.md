@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-So you came here to see my profile, let me walk through it:
+So you came here to see my profile, let me walk you through it:
 - 🔭 I’m a web developer who is proficient with the latest web development technlogies like ReactJS, NodeJS, GraphQL, etc.
 - 🌱 If you want to see my journey as developer then you can see the commit history of [Arena-2.0](https://github.com/siesgstarena/Arena-2.0). This is the project which I started from scratch when I just had just the basic knowledge of web development. I learned the concepts while working on the project and implemented them.
 - 😄 I believe in writing clean, readable and resuable code.
